@@ -10,8 +10,8 @@ def find_first_negative(lst):
             return x
     return "No negatives"
 
-lst1 = [1, 2, -3, 4, 5]
-lst2 = [1, 2, 3, 4, 5]
+lst1 = [3, 5, -1, 7, -2, 8]
+lst2 = [2, 10, 7, 0]
 
 print(find_first_negative(lst1))
 print(find_first_negative(lst2))
