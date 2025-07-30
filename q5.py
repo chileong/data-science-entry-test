@@ -12,8 +12,8 @@ def check_divisibility(num, divisor):
 
     return
 
-print(check_divisibility(10,5))
-print(check_divisibility(11,5))
+print(check_divisibility(10,2))
+print(check_divisibility(7,3))
 # Task 2
 # Invoke the function "check_divisibility" using the following scenarios:
 # - 10, 2
